@@ -6,8 +6,126 @@
   display: none;
 }
 
-.show {
+#li2 {
   display: block;
+}
+
+#hide2 {
+  display: none;
+}
+
+#li3 {
+  display: block;
+}
+
+#hide3 {
+  display: none;
+}
+
+#li4 {
+  display: block;
+}
+
+#hide4 {
+  display: none;
+}
+
+#li5 {
+  display: block;
+}
+
+#hide5 {
+  display: none;
+}
+
+#li6 {
+  display: block;
+}
+
+#hide6 {
+  display: none;
+}
+
+#li7 {
+  display: block;
+}
+
+#hide7 {
+  display: none;
+}
+
+#li8 {
+  display: block;
+}
+
+#hide8 {
+  display: none;
+}
+
+#li9 {
+  display: block;
+}
+
+#hide9 {
+  display: none;
+}
+
+#li10 {
+  display: block;
+}
+
+#hide10 {
+  display: none;
+}
+
+#click1 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#click2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#click3 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#click4 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#click5 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#click6 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#click7 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#click8 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#click9 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#click10 {
+  cursor: pointer;
+  color: #0088cc;
 }
 
 .clickable {

@@ -1,53 +1,53 @@
 $(document).ready(function(){
 
-  $(".clickable").click(function() {
+  $("#click1").click(function() {
     $("#hide1").slideToggle();
     $("#li1").slideToggle();
   });
 
-  $(".clickable").click(function() {
+  $("#click2").click(function() {
     $("#hide2").slideToggle();
     $("#li2").slideToggle();
   });
 
-  $(".clickable").click(function() {
+  $("#click3").click(function() {
     $("#hide3").slideToggle();
     $("#li3").slideToggle();
   });
 
 
-  $(".clickable").click(function() {
+  $("#click4").click(function() {
     $("#hide4").slideToggle();
     $("#li4").slideToggle();
   });
 
 
-  $(".clickable").click(function() {
+  $("#click5").click(function() {
     $("#hide5").slideToggle();
     $("#li5").slideToggle();
   });
 
-  $(".clickable").click(function() {
+  $("#click6").click(function() {
     $("#hide6").slideToggle();
     $("#li6").slideToggle();
   });
 
-  $(".clickable").click(function() {
+  $("#click7").click(function() {
     $("#hide7").slideToggle();
     $("#li7").slideToggle();
   });
 
-  $(".clickable").click(function() {
+  $("#click8").click(function() {
     $("#hide8").slideToggle();
     $("#li8").slideToggle();
   });
 
-  $(".clickable").click(function() {
+  $("#click9").click(function() {
     $("#hide9").slideToggle();
     $("#li9").slideToggle();
   });
 
-  $(".clickable").click(function() {
+  $("#click10").click(function() {
     $("#hide10").slideToggle();
     $("#li10").slideToggle();
   });
